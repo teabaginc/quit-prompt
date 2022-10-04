@@ -1,4 +1,4 @@
-;;; ui/quit-prompt/config.el -*- lexical-binding: t; -*-
+;;; quit-prompt/config.el -*- lexical-binding: t; -*-
 ;; A cool module to prompt the user if they want to quit Emacs
 ;; and adds far too many references.
 ;; Exported and made standalone by @teabaginc from doomemacs/doomemacs made by @hlissner.
